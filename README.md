@@ -19,11 +19,11 @@ Para verificar vá até as configurações do seu servidor e procure pela opçã
 Caso ela esteja por lá, basta seguir os passos do GIF abaixo!
 ![alt text](Gif_Tutorial-min.gif "Logo Title Text 1")
 
-> Lista de palavrões: Clique [AQUI](https://github.com/DarkPizza/discord-automod-words/blob/main/KeywordFilter01)
+> Lista de palavrões: Clique [AQUI](https://raw.githubusercontent.com/DarkPizza/discord-automod-words/blob/main/KeywordFilter01)
 
-> Lista de palavrões com conteúdo sexual: Clique [AQUI](https://github.com/DarkPizza/discord-automod-words/blob/main/KeywordFilter02)
+> Lista de palavrões com conteúdo sexual: Clique [AQUI](https://raw.githubusercontent.com/DarkPizza/discord-automod-words/blob/main/KeywordFilter02)
 
-> Lista de caracteres inadequados: Clique [AQUI](https://github.com/DarkPizza/discord-automod-words/blob/main/KeywordFilter03)
+> Lista de caracteres inadequados: Clique [AQUI](https://raw.githubusercontent.com/DarkPizza/discord-automod-words/main/KeywordFilter03)
 
 ## Servidores grandes que utilizam nossa lista
 Apê da Alfacusa (https://discord.gg/alfacusa)
