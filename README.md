@@ -14,7 +14,7 @@ Atualmente ele está em BETA e apenas alguns servidores podem ser acessados por 
 
 󠂪
 
-Para verificar vá até as configurações do seu servidor e procure pela opção `Content Moderation BETA`/`Moderação de Conteúdo BETA`.
+Para verificar vá até as configurações do seu servidor e procure pela opção `Content Moderation`/`Moderação de Conteúdo`.
 
 Caso ela esteja por lá, basta seguir os passos do GIF abaixo!
 ![alt text](Gif_Tutorial-min.gif "Logo Title Text 1")
