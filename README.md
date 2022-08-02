@@ -8,15 +8,9 @@ Caso você ache que tem alguma palavra que não deveria estar nessa lista, ou qu
 
 
 ## Como Utilizar?
-Para utilizar essa lista, você deve saber se o seu servidor já possui acesso ao sistema de [Automod](https://support.discord.com/hc/pt-br/articles/4421269296535).
+Vá nas configurações do seu servidor e procure pela opção `AutoMod`/`Auto Moderação`.
 
-Atualmente ele está em BETA e apenas alguns servidores podem ser acessados por ele.
-
-󠂪
-
-Para verificar vá até as configurações do seu servidor e procure pela opção `AutoMod`/`Auto Moderação`.
-
-Caso ela esteja por lá, basta seguir os passos do GIF abaixo!
+Basta seguir os passos do GIF abaixo!
 ![alt text](Gif_Tutorial-min.gif "Logo Title Text 1")
 
 > Lista de palavrões: Clique [AQUI](https://raw.githubusercontent.com/DarkPizza/discord-automod-words/main/KeywordFilter01)
@@ -28,7 +22,7 @@ Caso ela esteja por lá, basta seguir os passos do GIF abaixo!
 ## Servidores grandes que utilizam nossa lista
 Apê da Alfacusa (https://discord.gg/alfacusa)
 
-Discord Escoteiros (https://discord.gg/ybA52ugXAe)
+Discord Escoteiros (https://discord.gg/escoteiros)
 
 Brasil by Daylight (https://discord.gg/brbydaylight)
 
