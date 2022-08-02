@@ -1,4 +1,4 @@
-# discord-automod-words
+# Discord Automod Words
 
 
 ## Sobre
