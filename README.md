@@ -8,7 +8,7 @@ Caso você ache que tem alguma palavra que não deveria estar nessa lista, ou qu
 
 
 ## Como Utilizar?
-Vá nas configurações do seu servidor e procure pela opção `AutoMod`/`Auto Moderação`.
+Vá nas configurações do seu servidor e procure pela opção `AutoMod`.
 
 Basta seguir os passos do GIF abaixo!
 ![alt text](Gif_Tutorial-min.gif "Logo Title Text 1")
@@ -18,6 +18,8 @@ Basta seguir os passos do GIF abaixo!
 > Lista de palavrões com conteúdo sexual: Clique [AQUI](https://raw.githubusercontent.com/DarkPizza/discord-automod-words/main/KeywordFilter02)
 
 > Lista de caracteres inadequados: Clique [AQUI](https://raw.githubusercontent.com/DarkPizza/discord-automod-words/main/KeywordFilter03)
+
+> Lista de códigos regex: Clique [AQUI](https://comunidade.gitbook.io/escoteiros/recursos/ferramentas/regex)
 
 ## Servidores grandes que utilizam nossa lista
 Apê da Alfacusa (https://discord.gg/alfacusa)
