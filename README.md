@@ -25,6 +25,15 @@ Basta seguir os passos do GIF abaixo!
 - Apê da Alfacusa (https://discord.gg/alfacusa)
 - Elixir Lab (https://discord.gg/elixirlab)
 
+### # Mestre em Discord
+
+- **18 AULAS** DIVIDIDAS EM **8 MÓDULOS**
+- **ACESSO EXCLUSIVO** AO SERVIDOR NO DISCORD
+- **CENTRAL DE DÚVIDAS** NO SERVIDOR DO DISCORD
+- **7** DIAS DE **GARANTIA**
+- **+ BÔNUS** EXCLUSIVO
+
+Saiba mais: https://bit.ly/mestrediscord
 ## Contribuidores
 Agradecemos a todos os [contribuidores](https://github.com/DarkPizza/discord-automod-words/graphs/contributors) que ajudaram a expandir esse projeto.
 
