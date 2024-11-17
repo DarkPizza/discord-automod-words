@@ -25,8 +25,7 @@ Basta seguir os passos do GIF abaixo!
 - Apê da Alfacusa (https://discord.gg/alfacusa)
 - Elixir Lab (https://discord.gg/elixirlab)
 
-### Mestre em Discord
-
+## Mestre em Discord
 - **18 AULAS** DIVIDIDAS EM **8 MÓDULOS**
 - **ACESSO EXCLUSIVO** AO SERVIDOR NO DISCORD
 - **CENTRAL DE DÚVIDAS** NO SERVIDOR DO DISCORD
