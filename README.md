@@ -11,28 +11,44 @@ Vá nas configurações do seu servidor e procure pela opção `AutoMod`.
 Basta seguir os passos do GIF abaixo!
 ![alt text](Gif_Tutorial-min.gif "Logo Title Text 1")
 
-> Lista de palavrões: Clique [AQUI](https://raw.githubusercontent.com/DarkPizza/discord-automod-words/main/KeywordFilter01)
-
-> Lista de palavrões com conteúdo sexual: Clique [AQUI](https://raw.githubusercontent.com/DarkPizza/discord-automod-words/main/KeywordFilter02)
-
-> Lista de caracteres inadequados: Clique [AQUI](https://raw.githubusercontent.com/DarkPizza/discord-automod-words/main/KeywordFilter03)
-
-> Lista de códigos regex: Clique [AQUI](https://xxgustavoxx.notion.site/Regex-0324d0c5533c4cfe97d3806c06b03690)
-
 ## Servidores grandes que utilizam nossa lista
 
 - Comunidade Escoteiros (https://discord.gg/escoteiros)
 - Apê da Alfacusa (https://discord.gg/alfacusa)
 - Elixir Lab (https://discord.gg/elixirlab)
 
-## Mestre em Discord
-- **18 AULAS** DIVIDIDAS EM **8 MÓDULOS**
-- **ACESSO EXCLUSIVO** AO SERVIDOR NO DISCORD
-- **CENTRAL DE DÚVIDAS** NO SERVIDOR DO DISCORD
-- **7** DIAS DE **GARANTIA**
-- **+ BÔNUS** EXCLUSIVO
+> ⚠️ **Mudança Importante**
+>
+> A lista pública de palavras para AutoMod não é mais mantida neste repositório.
+>
+> O conteúdo agora faz parte do recurso premium **AutoMod para Discord**, disponível exclusivamente para usuários que adquirirem o acesso oficial.
+>
+> O recurso inclui:
+>
+> * Configurações prontas para AutoMod
+> * Regex profissionais para proteção e moderação
+> * Guia completo de configuração no Discord
+> * Exemplos práticos e explicações simplificadas
+> * Bônus exclusivos
+>
+> **Conteúdo do material**
+>
+> 1. Introdução ao AutoMod
+> 2. Bloqueio de Links e Convites
+> 3. Proteção Contra Spam e Flood
+> 4. Filtro de Palavras Ofensivas e NSFW
+> 5. Regex Avançadas e Anti-Bypass
+> 6. Sistemas Anti Raid e Segurança
+> 7. Configurações Profissionais
+>
+> ### Proteja, automatize e organize.
+>
+> Ao utilizar o recurso, você será capaz de configurar sistemas profissionais de moderação no Discord, aplicar proteções avançadas contra spam, convites, bypass e raids, além de automatizar grande parte da segurança do seu servidor de forma prática e estratégica.
+>
+> **Preço:** R$ 25,90
+>
+> **Adquira o acesso:** https://discord.com/channels/783381741686620173/shop/1506299525151850646
 
-Saiba mais: https://bit.ly/mestrediscord
 ## Contribuidores
 Agradecemos a todos os [contribuidores](https://github.com/DarkPizza/discord-automod-words/graphs/contributors) que ajudaram a expandir esse projeto.
 
